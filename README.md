@@ -11,4 +11,4 @@ An automated tool built with Python to streamline property management reporting.
 1. Clone the repo: `git clone <your-repo-link>`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Install Playwright browsers: `playwright install`
-4. Add your credentials in `RRR.xlsx`.
+4. Add your credentials in `RR.xlsx`.
